@@ -1,0 +1,1 @@
+[codejam-palette on gh-pages](https://stad07.github.io/codejam-palette/)
